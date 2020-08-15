@@ -9,7 +9,7 @@ Obstacle voiding rover can detect obstacles in front of it and make decisions ac
 ## Components used:
 
 - Arduino Atmega 328
-- Motor driver shield
+- Motor driver shield L293D
 - Servo motor
 - 2 set of motors or stepper motor
 - Jumper wire
@@ -22,6 +22,8 @@ Obstacle voiding rover can detect obstacles in front of it and make decisions ac
 - Servo motor gives the ultrasonic sensor flexibility so that it can cover a longer range.
 - When an object comes in front of the rover, the rover stops for a sec, then the servo rotates covering an arc while the ultrasonic sensor takes he readings i.e distances.
 - After this, the distance which is greater is selected and the rover moves in that direction.
+
+### Make sure the jumper is removed from the motor shield before running the code.
 
 
 The code above attached is a four-wheel-drive code.
