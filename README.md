@@ -1,6 +1,6 @@
 # Obstacle Avoiding Rover
 
-In the 21st century can be said as the era f automation and machine learning. Right from the self-driving cars to the mars rover, humanity has been testing its potentials to the maximum.
+21st century can be called as the era of automation and machine learning. Right from the self-driving cars to the mars rover, humanity has been testing its potentials to the maximum.
 
 The below project is the necessary level of automation in the self-driving cars.
 
